@@ -1,18 +1,25 @@
-## Getting Started
+# Conversor de Monedas Challenge
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este proyecto es parte de los retos del programa Oracle Next Education junto con Alura Latam. El objetivo es poner a prueba nuestros conocimientos y habilidades adquiridas en nuestra formación en desarrollo web Back-end con el lenguaje de programación Java.
 
-## Folder Structure
+## Descripción
 
-The workspace contains two folders by default, where:
+El Conversor de Monedas Challenge es una aplicación creada en Java que permite convertir diferentes tipos de monedas consumiendo una API. Este proyecto es un desafío propuesto por Oracle Next Education y Alura Latam para evaluar las habilidades y conocimientos adquiridos en el desarrollo web Back-end con Java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Instalación
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Para instalar y ejecutar este proyecto necesitas tener instalado Java y un IDE que soporte este lenguaje, como IntelliJ IDEA o Eclipse.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1. Clona el repositorio en tu máquina local usando `https://github.com/Ericm-dev/conversor-de-monedas-challenge.git`
+2. Importa el proyecto a tu IDE de elección.
+3. Ejecuta el proyecto desde el IDE.
 
-## Dependency Management
+## Uso
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Una vez que el proyecto esté en ejecución, podrás interactuar con la interfaz de usuario para convertir diferentes tipos de monedas.
+
+## Contribuir
+
+Las contribuciones son bienvenidas. Para contribuir:
+
+## Licencia
