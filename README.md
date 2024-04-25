@@ -1,18 +1,19 @@
 # Conversor de Monedas Challenge
 
-Este proyecto es parte de los retos del programa Oracle Next Education junto con Alura Latam. El objetivo es poner a prueba nuestros conocimientos y habilidades adquiridas en nuestra formación en desarrollo web Back-end con el lenguaje de programación Java.
+Este proyecto es parte de los retos del programa ONE - Oracle Next Education junto con Alura Latam. El objetivo es poner a prueba nuestros conocimientos y habilidades adquiridas en nuestra formación en desarrollo web Back-end con el lenguaje de programación Java.
 
 ## Descripción
 
-El Conversor de Monedas Challenge es una aplicación creada en Java que permite convertir diferentes tipos de monedas consumiendo una API. Este proyecto es un desafío propuesto por Oracle Next Education y Alura Latam para evaluar las habilidades y conocimientos adquiridos en el desarrollo web Back-end con Java.
+El Conversor de Monedas Challenge es una aplicación creada en el lenguaje de programación Java, esta aplicación permite saber la equilalencia de una moneda a otra en diferentes paises esta transformación sucede en tiempo real consumiendo una API gratuita de internet. Este software es creado con fines educativos.
 
 ## Instalación
 
-Para instalar y ejecutar este proyecto necesitas tener instalado Java y un IDE que soporte este lenguaje, como IntelliJ IDEA o Eclipse.
-
-1. Clona el repositorio en tu máquina local usando `https://github.com/Ericm-dev/conversor-de-monedas-challenge.git`
+Para instalar y ejecutar este proyecto necesitas tener instalado Java, un IDE que soporte este lenguaje, como IntelliJ IDEA o Eclipse y la libreria Gson de google.
+Pasos a seguir:
+1. Clona el repositorio en tu máquina local.
 2. Importa el proyecto a tu IDE de elección.
-3. Ejecuta el proyecto desde el IDE.
+3. Instala las librerias necesarias.
+4. Ejecuta el proyecto desde el IDE.
 
 ## Uso
 
