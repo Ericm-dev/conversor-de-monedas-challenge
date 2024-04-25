@@ -4,7 +4,7 @@ Este proyecto es parte de los retos del programa ONE - Oracle Next Education jun
 
 ## Descripción
 
-El Conversor de Monedas Challenge es una aplicación creada en el lenguaje de programación Java, esta aplicación permite saber la equilalencia de una moneda a otra en diferentes paises esta transformación sucede en tiempo real consumiendo una API gratuita de internet. Este software es creado con fines educativos.
+El Conversor de Monedas Challenge es una aplicación creada en el lenguaje de programación Java, esta aplicación permite saber la equilalencia de una moneda a otra en diferentes paises, esta transformación sucede en tiempo real consumiendo una API gratuita de internet. Este software es creado con fines educativos.
 
 ## Instalación
 
