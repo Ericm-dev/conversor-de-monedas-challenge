@@ -23,14 +23,20 @@ public class Principal {
     private int opcion;
 
     private String menu = """
-            *****Bienvenido al Conversor de monedas*****
-            1) Dólar =>> Peso argentino
-            2) Peso argentino =>> Dólar
-            3) Dólar =>> Real brasileño
-            4) Real brasileño =>> Dólar
-            5) Dólar =>> Peso colombiano
-            6) Peso colombiano =>> Dólar
-            7) Salir
+            ************************************************
+            ************************************************
+            **   <<Bienvenido al Conversor de monedas>>   **
+            **                                            **
+            **   1) Dólar >>>> a >>>> Peso argentino      **
+            **   2) Peso >>>> a >>>> argentino =>> Dólar  **
+            **   3) Dólar >>>> a >>>> Real brasileño      **
+            **   4) Real >>>> a >>>> Dólar                **
+            **   5) Dólar >>>> a >>>> Peso colombiano     **
+            **   6) Peso colombiano >>>> a >>>> Dólar     **
+            **   7) Salir                                 **
+            **                                            **
+            ************************************************
+            ************************************************
             """;
 
     public void muestraElMenu() {
