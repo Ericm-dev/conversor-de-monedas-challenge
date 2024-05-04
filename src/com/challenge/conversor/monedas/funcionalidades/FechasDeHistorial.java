@@ -1,4 +1,5 @@
-package com.challenge.conversor.monedas;
+package com.challenge.conversor.monedas.funcionalidades;
+
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 

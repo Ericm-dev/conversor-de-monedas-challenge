@@ -1,16 +1,16 @@
-package com.challenge.conversor.monedas;
+package com.challenge.conversor.monedas.funcionalidades;
+
 import java.util.ArrayList;
 
 public class Historial {
-    
-    private ArrayList<String> miHistorial;
+        private ArrayList<String> miHistorial;
 
     public Historial() {
         this.miHistorial = new ArrayList<>();
     }
 
-    public void addHistorial(String convertir) {
-        this.miHistorial.add(convertir);
+    public void anadir(String resutado) {
+        this.miHistorial.add(resutado);
     }
 
     public void mostrarHistorial() {
@@ -18,7 +18,4 @@ public class Historial {
             System.out.println(moneda);
         }
     }
-
-
-    
 }
